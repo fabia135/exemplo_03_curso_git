@@ -2,7 +2,7 @@ Titulo: Programando com Rails
 Resumo: Esse trabalho visa mostrar tal tal tal...
 Sumario
 Cap1
-Cap2
+Este cpitulo fala sobre isso
 Cap3
 ...
 Referencias
